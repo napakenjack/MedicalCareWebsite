@@ -80,12 +80,12 @@ export const featuredPrograms = [
 export const doctors = [
   {
     id: "dr-smith",
-    name: "Dr. Sarah Smith",
+    name: "Dr. John Smith",
     specialty: "Chief Cardiologist",
     experience: "15+ Years",
     credentials: "MD, FACC",
     bio: "Dr. Smith specializes in preventive cardiology and advanced heart failure management, dedicated to compassionate patient care.",
-    image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=400",
+    image: "https://images.unsplash.com/photo-1712215544003-af10130f8eb3?q=80&w=687&auto=format&fit=crop",
   },
   {
     id: "dr-chen",
@@ -98,12 +98,12 @@ export const doctors = [
   },
   {
     id: "dr-patel",
-    name: "Dr. Emily Patel",
+    name: "Dr. David Patel",
     specialty: "Pediatrician",
     experience: "10+ Years",
     credentials: "MD, FAAP",
     bio: "Dr. Patel is passionate about children's health and development, providing a warm and welcoming environment for families.",
-    image: "https://images.unsplash.com/photo-1594824436998-d40d59f91131?auto=format&fit=crop&q=80&w=400",
+    image: "https://images.unsplash.com/photo-1645066928295-2506defde470?q=80&w=679&auto=format&fit=crop",
   },
   {
     id: "dr-rodriguez",
